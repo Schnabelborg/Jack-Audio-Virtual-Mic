@@ -1,0 +1,1 @@
+powershell "~\Documents\Scripts\QJackCTL-Virtual-Mic\'QJackCTL setup.ps1'"
